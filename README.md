@@ -14,7 +14,7 @@
 ## My hope is that Creative Domain will be the collection of me even when I am gone
 
 # What I'm currently doing (Summer Break)
-## Working on my personal website [Link text](https://creativedomain.studio)
+## Working on my personal website [Creative Domain](https://creativedomain.studio)
 ## Stat padding my resume with certifications
 ## Learning Unity in pursuit of game development
 ## Creating art!
