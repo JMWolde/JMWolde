@@ -1,29 +1,28 @@
 # Joshua Mehreteab Wolde
 ## Welcome to my github profile!
 
-## ABOUT ME
-### I am 20 years old
-### I am incoming third year student at Dalhousie University studying Computer Science
-### I am a huge fan of:
+## About Me
+I am 20 years old and I am an incoming third year student at Dalhousie University studying Computer Science
+
+I am a huge fan of:
 - Gaming
 - Art
 - Graphic Design
 - Wrestling
 - Anime
-### You can tell a lot about me from my projects
-### Aspiring Game Dev
+You can tell a lot about me from my projects and I am aspiring to be a game developer
 #### I also cannot bend my thumbs D:
 
 ## What is Creative Domain
-### This is the brand that encompasses all the creative work I do in my life such as Photo Editing, Drawing, Coding, Writing, Speaking etc.
-#### I believe in the importance of human identity as a CS developer and everything I do with Creative Domain reflects the identity I have within my work
-### My hope is that Creative Domain will be the collection of me even when I am gone
+This is the brand that encompasses all the creative work I do in my life such as Photo Editing, Drawing, Coding, Writing, Speaking etc.
+#### I believe in the importance of human identity as a CS developer and everything I do with Creative Domain reflects the identity I have within my work. My hope is that Creative Domain will be the collection of me even when I am gone
 
 ## What I'm up to
-### Working on my personal website [Creative Domain](https://creativedomain.studio)
-### Gettin' those certifications
-### Learning Unity in pursuit of game development
-### Creating art!
+- Working on my personal website [Creative Domain](https://creativedomain.studio)
+- Gettin' those certifications
+- Learning Unity
+- Starting up some fun projects
+- Creating art!
 
 
 
